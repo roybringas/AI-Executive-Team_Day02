@@ -31,10 +31,10 @@ Every worker exists to help Vexel Systems:
 No worker exists for vanity projects, hype, or unnecessary complexity.
 
 ## 7 components of an AI Worker
-Mission
-Responsibilities
-Inputs
-Decision Framework
-Constraints
-Outputs
-KPIs
+1. Mission  
+2. Responsibilities  
+3. Inputs  
+4. Decision Framework  
+5. Constraints  
+6. Outputs  
+7. KPIs
