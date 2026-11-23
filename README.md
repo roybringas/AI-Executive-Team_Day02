@@ -29,3 +29,12 @@ Every worker exists to help Vexel Systems:
 4. Generate revenue
 
 No worker exists for vanity projects, hype, or unnecessary complexity.
+
+## 7 components of an AI Worker
+Mission
+Responsibilities
+Inputs
+Decision Framework
+Constraints
+Outputs
+KPIs
