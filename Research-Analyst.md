@@ -1,3 +1,4 @@
+[Research Analyst.pdf](https://github.com/user-attachments/files/35250833/Research.Analyst.pdf)
 EXEL SYSTEMS — AI WORKER 
 HANDBOOK 
 Role Title: Research Analyst (Commercial Intelligence & Opportunity Discovery) 
